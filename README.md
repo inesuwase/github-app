@@ -1,5 +1,7 @@
 # github-app
 github
+## Author
+uwase ines
 ## Description
 An App to Search for Github profiles and their Repositories.
 
